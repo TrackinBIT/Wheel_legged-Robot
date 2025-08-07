@@ -5,7 +5,7 @@
 
 ● MPC_Controller.m ： 基于当前状态和目标状态计算最优地面反作用力
 
-● Torque_all.m “” 地面反作用力->雅克比矩阵->至关节力矩
+● Torque_all.m ： 地面反作用力->雅克比矩阵->至关节力矩
 
 ● Forward_Kinematics.m ： 基于轮心位置 -> 关节角度
 
