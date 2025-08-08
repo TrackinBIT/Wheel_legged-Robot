@@ -2,7 +2,8 @@
 基于MPC的轮式四足机器人动态运动控制仿真
 
 ● 仿真环境：MATLAB 2022b / Simscape Multibody
-<img width="1711" height="1044" alt="main" src="https://github.com/user-attachments/assets/43f4722d-d7e1-403a-9ec1-a79bea424059" />
+<img width="1707" height="1042" alt="main" src="https://github.com/user-attachments/assets/3bc16fbf-26e3-4b87-8028-bd84fe67f55d" />
+
 
 
 
